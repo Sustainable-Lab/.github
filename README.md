@@ -1,5 +1,5 @@
 # Suslab
-Welcome to the official github profile of (Suslab)[https://suslab.net/]. 
+Welcome to the official github profile of (Suslab)[https://suslab.net/]. <br>
 Our mission is to "Creating a sustainable world by the power of data science"
 
 データサイエンスの力で、
@@ -17,7 +17,7 @@ Our mission is to "Creating a sustainable world by the power of data science"
 
 これが、非財務データサイエンス集団であるわたしたちのミッションです。
 
-Message from the CEO Renji Hirase: 
+Message from the CEO Renji Hirase: <br>
 あなたのパーパス（存在意義）とは？
 ともに考え、伴走する仲間でありたい。
 
