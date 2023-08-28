@@ -1,5 +1,5 @@
 # Suslab
-Welcome to the official github profile of (Suslab)[https://suslab.net/]. <br>
+Welcome to the official github profile of [Suslab](https://suslab.net/). <br>
 Our mission is to "Creating a sustainable world by the power of data science"
 
 データサイエンスの力で、
@@ -39,4 +39,4 @@ Message from the CEO Renji Hirase: <br>
 代表取締役 CEO
 平瀬 錬司
 
-If you are interested in working with us, please go (here)[https://suslab-recruit.net/] and apply. 
+If you are interested in working with us, please go [here](https://suslab-recruit.net/) and apply. 
